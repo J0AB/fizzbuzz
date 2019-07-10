@@ -1,0 +1,2 @@
+# fizzbuzz
+1. FizzBuzz Escreva um programa que use console.log para imprimir todos os números de 1 a 100, com duas exceções: Para números divisíveis por 3, imprima "Fizz" ao invés de número Para números divisíveis por 5 (mas não por 3), imprima "Buzz". Quando isto esteja funcionando, modifique o seu programa para imprimir "FizzBuzz" para os números que sejam divisíveis tanto por 3 como por 5 (e que continue imprimindo "Fizz" ou "Buzz" para números divisíveis por somente um deles).
